@@ -1,5 +1,9 @@
 hello...how are you?
 this is just sample
 changing code for merge 
+<<<<<<< HEAD
 
 no dont change
+=======
+ merging both
+>>>>>>> feature

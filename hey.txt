@@ -1,2 +1,3 @@
 hey friends .this is second sample file
 learning merge  .second change
+yes
