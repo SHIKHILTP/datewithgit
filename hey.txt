@@ -2,4 +2,7 @@ hey friends .this is second sample file
 learning merge  .second change
 
 
-leraning git push
+learning git push
+
+learning cloning 
+system to server
